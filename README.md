@@ -1,1 +1,3 @@
-# hn.daily.github.io
+# daily.hn.github.io
+
+The hacknews daily only
